@@ -1,0 +1,83 @@
+{
+  "enterEmail": "Vui lòng nhập địa chỉ email hợp lệ",
+  "emailNull": "Email không được ",
+  "passwordNull": "Mật khẩu không được ",
+  "null": "trống",
+  "password": "Mật khẩu",
+  "login": "Đăng nhập",
+  "facebook": "Đăng nhập với Facebook",
+  "google": "Đăng nhập với Google",
+  "registration": "Đăng kí mới",
+  "forgotPassword": "Quên mật khẩu",
+
+
+
+
+  "name": "Họ và tên",
+  "phone": "Số điện thoại",
+  "languages": "Ngôn ngữ",
+  "vn": "Tiếng việt",
+  "eng": "Tiếng Anh",
+  "position": "Chọn vị trí chính xác của bạn",
+  "addressPositon": "Địa chỉ của bạn",
+  "male": "Nam",
+  "female": "Nữ",
+  "birdthday": "Ngày sinh",
+  "area": "Khu vực",
+  "HCM" : "Thành phố Hồ Chí Minh",
+  "VT": "Thành phố Vũng tàu",
+  "signUp": "Đăng ký",
+
+
+
+  "reapetPassword": "Nhập lại mật khẩu",
+  "confirm": "Xác nhận",
+
+
+
+  "homePage": "Trang chủ",
+  "order": "Đơn hàng của tôi",
+  "information": "Thông tin tài khoản",
+  "setting": "Cài đặt",
+  "logOut": "Đăng xuất",
+
+
+
+  "receivehome": "Nhận hàng tại nhà",
+  "receiveApoint": "Nhập hàng tại Apoint",
+  "purchaseMethod": "Phương thức mua hàng",
+  "direct": "Chỉ đường",
+
+
+  "receiver": "Người nhận",
+  "createDate" : "Ngày đặt",
+  "totalPrice": "Tổng tiền",
+  "address": "Địa chỉ",
+
+
+  "orderDetail": "Chi tiết đơn hàng",
+  "product": "Sản phẩm",
+  "quantity": "Số lượng",
+  "discount": "Giảm giá",
+  "orderSent": "Đơn hàng đã gửi",
+  "receive": "Đã nhận hàng",
+
+
+  "detail": "Chi tiết",
+  "addToCard": "Thêm vào giỏ hàng",
+  "beefChuck": "Nạc vai",
+  "beefRibs": "Xương sườn",
+  "beefLoin": "Thăn nõn",
+  "beefRound": "Mông",
+  "beefBrisket": "Ức",
+  "beefPlate": "Sườn vai",
+  "beefFlank": "Thăn bụng",
+
+
+  "price": "Giá",
+  "select": "Chọn",
+  "expire" : "Hạn còn",
+  "point": "điểm",
+
+  "total": "Còn"
+}
